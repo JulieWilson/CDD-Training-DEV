@@ -2,7 +2,7 @@
 "parameters": [
 		{
 			"name": "ReleaseVersion",
-			"value": "Q1V1.2"
+			"value": "Q1V1.3"
 		},
 		{
 			"name": "AppVersion",
